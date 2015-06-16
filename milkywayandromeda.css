@@ -2846,3 +2846,7 @@ color:#B94C4C;
 #sr-header-area{
   font-size:100%;
 }
+#sr-header-area .sr-list {
+  /* override row 76 */
+  margin-right:81px;
+}
