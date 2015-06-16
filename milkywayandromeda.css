@@ -2850,3 +2850,7 @@ color:#B94C4C;
   /* override row 76 */
   margin-right:81px;
 }
+
+.side:after{
+  color:#B94C4C;
+}
