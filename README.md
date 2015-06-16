@@ -3,6 +3,7 @@
 * Demo: http://www.reddit.com/r/MilkyWayAndromeda/
 * Naut: http://www.reddit.com/r/naut/wiki/index
 * permanight: http://www.reddit.com/r/naut/wiki/permanight
+* Nvidia: http://www.reddit.com/r/nvidia
 
 ## Images
 
