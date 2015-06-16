@@ -2823,3 +2823,12 @@ body:before {
 background-size:cover;
 }
 }
+
+/* --- addons --- */
+.drop-choices {
+  background-color:#2E3136;
+}
+.drop-choices a.choice {
+  border:mome;
+}
+}
