@@ -124,7 +124,7 @@ padding:0;
 
 #sr-header-area .dropdown.srdrop .selected:after {
 position:relative;
-content:"Ã¢â€“Â¼";
+content:"â–¼";
 margin-left:4px;
 font-size:10px;
 }
@@ -2819,9 +2819,9 @@ color:#B94C4C;
 }
 
 @media only screen and min-width 1921px{
-body:before {
-background-size:cover;
-}
+  body:before {
+    background-size:cover;
+  }
 }
 
 /* --- addons --- */
@@ -2829,6 +2829,5 @@ background-size:cover;
   background-color:#2E3136;
 }
 .drop-choices a.choice {
-  border:mome;
-}
+  border:none;
 }
