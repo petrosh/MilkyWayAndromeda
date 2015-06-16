@@ -124,7 +124,7 @@ padding:0;
 
 #sr-header-area .dropdown.srdrop .selected:after {
 position:relative;
-content:"â–¼";
+content:"▼";
 margin-left:4px;
 font-size:10px;
 }
