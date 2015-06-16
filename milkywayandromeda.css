@@ -2831,3 +2831,10 @@ color:#B94C4C;
 .drop-choices a.choice {
   border:none;
 }
+
+.pagename{
+  color:rgb(46, 49, 53);
+}
+.leavecontributor-button{
+  background-color:#25282D;
+}
