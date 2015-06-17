@@ -1737,7 +1737,7 @@ color:#b3b3b3;
 }
 
 .commentarea .menuarea .dropdown.lightdrop .selected:after {
-content:"Ã¢â€“Â¼";
+content:"▼";
 }
 
 .drop-choices.lightdrop {
