@@ -2857,3 +2857,7 @@ color:#B94C4C;
 body:before{
   background:transparent;
 }
+
+.comment .author:hover,.link .domain a:hover,.link .entry .tagline a:hover,.link .entry .buttons li a:hover,.comment .flat-list li a:hover {
+  text-decoration: none;
+}
