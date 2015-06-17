@@ -2854,3 +2854,6 @@ color:#B94C4C;
 .content .thing .title:visited, .content .thing.visited .title, .md a:visited{
   color:#8A7D5D;
 }
+body:before{
+  background:transparent;
+}
