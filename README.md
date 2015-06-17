@@ -1,9 +1,13 @@
-# MilkyWayAndromeda theme for reddit
+## MilkyWayAndromeda theme for reddit
 
 * Demo: http://www.reddit.com/r/MilkyWayAndromeda/
-* Naut: http://www.reddit.com/r/naut/wiki/index
-* permanight: http://www.reddit.com/r/naut/wiki/permanight
-* Nvidia: http://www.reddit.com/r/nvidia
+* Initial Gist: https://gist.github.com/petrosh/e4da017068eb26fb15e7
+
+## Themes used
+
+* Naut theme: http://www.reddit.com/r/naut/wiki/index
+* permanight addon: http://www.reddit.com/r/naut/wiki/permanight
+* Nvidia theme: http://www.reddit.com/r/nvidia
 
 ## Images
 
