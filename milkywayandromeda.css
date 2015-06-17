@@ -690,7 +690,7 @@ content:"Unsubscribe";
 .titlebox .fancy-toggle-button .remove:hover:after {
 visibility:visible;
 color:#4D5763;
-background-color:#fff;
+background-color:#571D1D;
 margin-top:40px;
 box-shadow:0 1px 5px rgba(0,0,0,0.24);
 }
@@ -2837,10 +2837,6 @@ color:#B94C4C;
 }
 .leavecontributor-button{
   background-color:#25282D;
-}
-
-.titlebox .fancy-toggle-button{
-  background-color:#451616;
 }
 
 #sr-header-area{
