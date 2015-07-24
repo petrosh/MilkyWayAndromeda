@@ -2861,3 +2861,14 @@ body:before{
 .comment .author:hover,.link .domain a:hover,.link .entry .tagline a:hover,.link .entry .buttons li a:hover,.comment .flat-list li a:hover {
   text-decoration: none;
 }
+
+/* FLAIRLINKS */
+.linkflair-andromeda span.linkflairlabel {
+  background-color: #3258BA; /* blue */
+}
+.linkflair-milkyway span.linkflairlabel {
+  background-color: #B94C4C; /* default red */
+}
+.linkflair-merge span.linkflairlabel {
+  background-color: #37811F; /* green */
+}
